@@ -1,0 +1,1 @@
+mongodb+srv://ShoppingZone:ShoppingZone@cluster0.ghni6.mongodb.net/ShoppingZone?retryWrites=true&w=majority
